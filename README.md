@@ -1,15 +1,5 @@
-# Disney Plus Clone Readme
 
-## <a href="https://disney-clone-d1e27.firebaseapp.com" target="_blank">LIVE DEMO</a>
 
-### 🔴 Watch full tutorial <a href='https://www.youtube.com/watch?v=R_OERlafbmw'>HERE</a>
+https://user-images.githubusercontent.com/76200523/184048573-dc13178a-c3e5-4bf7-9016-49cd5d008cbd.mp4
 
-## Description
-This is the ReactJS Disney Plus Clone, the perfect project to put on your portfolio by Clever Programmer.
-
-## Build it today!
-
-#### PREREQUISITES:
-- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
-- Download all the images and videos <a href='https://drive.google.com/drive/folders/13SvUkXPh7ZC1FRtp62VKFi572elZyxi8?usp=sharing'>HERE</a>
+![b8dab93d-a03a-4d33-bf1f-d15c234bdddf](https://user-images.githubusercontent.com/76200523/184048608-6c50f7fc-b11b-488d-a781-7cdae6b8da07.jpg)
